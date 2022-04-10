@@ -1,0 +1,11 @@
+train:val split: 80:20
+
+train (80%)
+-AD
+-MCI
+-CN
+
+val  (20%)
+-AD
+-MCI
+-CN
